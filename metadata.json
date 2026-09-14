@@ -1,0 +1,6 @@
+{
+  "name": "Zahrani Property Indonesia",
+  "description": "Website personal branding Zahrani - Konsultan Properti & Layanan Utama Manajemen Villa di Indonesia. Kurasi aset properti pilihan, sewa villa harian, dan kemitraan kelola villa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
